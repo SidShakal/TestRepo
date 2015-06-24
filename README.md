@@ -11,3 +11,5 @@ summary and description, hit commit, and then when you're ready to sync
 to the server, you hit sync.
 
 That seems pretty easy.
+
+Now wtf is with the ":neckbeard:" in the .git* files commit? :P
